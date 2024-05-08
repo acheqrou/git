@@ -1,1 +1,1 @@
-# first
+# first for GIT course
